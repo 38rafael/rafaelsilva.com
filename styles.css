@@ -68,6 +68,17 @@ body {
   text-align: left;
   background-color: #fff;
 }
+#palavra{
+  color: #FFF;
+  font-size: 2vh;
+  margin: 10px;
+}
+#palavra span {
+  margin-left: 5px;
+}
+#lodo{
+  float: left;
+}
 
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
