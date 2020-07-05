@@ -1,3 +1,3 @@
 <?php
 
-$con = mysqli_connect('localhost', 'root', '', 'cms');
+$con = mysqli_connect('localhost', 'root', '', 'rafaelrsilva');
