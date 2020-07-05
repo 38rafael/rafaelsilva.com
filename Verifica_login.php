@@ -18,5 +18,4 @@ if (isset($_POST['email']) && !empty($_POST['email'])) {
 		header('Location: login.php');
  	}
 }
-
 ?>
