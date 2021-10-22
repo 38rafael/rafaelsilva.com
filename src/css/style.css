@@ -4,6 +4,45 @@
     box-sizing: border-box;
 }
 
+
 body{
     font-family: 'Roboto', sans-serif;
+    /* font-family: 'Festive', cursive; */
+}
+
+h1, h2, h3, h4, h5, h6{
+    color: #444444;
+    font-weight: 300;
+
+}
+
+.display-1{
+    font-size: 5em;
+}
+
+p{
+    color: #7a7a7a;
+    font-weight:100;
+    font-size: 1.2em;
+}
+
+/* cores do site */
+.amostra{
+    width: 200px;
+    height: 50px;
+}
+.primaria{
+    background-color: rgb(0, 140, 255);
+}
+
+.secundaria{
+    background-color: rgb(192, 192, 192);
+}
+
+.alerta{
+    background-color: rgb(241, 55, 55);
+}
+
+.sucesso{
+    background-color:rgb(52, 189, 64)
 }
